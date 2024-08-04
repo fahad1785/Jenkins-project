@@ -12,4 +12,5 @@ Generated Github Access token and added to project details
 Added Build Triggers 
 GitHub hook trigger for GITScm polling    and
 Poll SCM
-Then added the Github Webhook of the repository and added the Jenkins url in the Webhook url.
+Then added the Github Webhook of the repository and added the Jenkins url in the Webhook URL.
+...
